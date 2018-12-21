@@ -1,6 +1,10 @@
-<img src ='https://github.com/karjok/SYTD/blob/master/Screenshot_2018-12-21-11-20-12-120_com.termux.png'>
+<img src ='https://github.com/karjok/SYTD/blob/master/Screenshot_2018-12-21-11-20-12-120_com.termux.png'/>
+
+
 # SYTD
-Simple Youtube Downloader
+Simple Youtube Downloader<br>
+a simple tool for download Video/Music from Youtube.com<br>
+
 
 # How to install
 $pkg install python<br>
